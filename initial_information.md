@@ -4,7 +4,7 @@ layout: default
 [Back to home page](./index.md)
 
 ### History
-Europium was first discovered by Eugene-Anatole Demarcay. Pubchem and C.I.A.A.W. state that he first discovered the element in 1896 and first isolated the element in 1901, but the Royal Society of Chemistry only states that he discovered the element in 1901. Demarcay discovered Europium in Paris, France, on Berthier Boulevard
+Europium was first discovered by Eugene-Anatole Demarcay. Pubchem and C.I.A.A.W. state that he first discovered the element in 1896 and first isolated the element in 1901, but the Royal Society of Chemistry only states that he discovered the element in 1901. Demarcay discovered Europium in Paris, France, on Berthier Boulevard.
 
 ### Atomic Information
 Europium's atomic number is 63, and its average mass is 151.964u. Europium has 63 protons and a stable isotope of Europium is "Europium-151," containing 88 electrons. The most common ion of Europium is Eu3+ with 60 electrons.
