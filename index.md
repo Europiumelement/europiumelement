@@ -9,4 +9,4 @@ When I began research for Europium, I was entirely unfamiliar with the element. 
 
 **Europium in Bohr Models may be found [here](./europium_in_bohr_models.md).**
 
-**Reactivity, electronegativity, and compounds that include Europium may also be found [here](./additional_information.md].**
+**Reactivity, electronegativity, and compounds that include Europium may also be found [here](./additional_information.md).**
