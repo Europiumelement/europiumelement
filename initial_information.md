@@ -7,7 +7,7 @@ layout: default
 Europium was first discovered by Eugene-Anatole Demarcay. Pubchem and C.I.A.A.W. state that he first discovered the element in 1896 and first isolated the element in 1901, but the Royal Society of Chemistry only states that he discovered the element in 1901. Demarcay discovered Europium in Paris, France, on Berthier Boulevard.
 
 ### Atomic Information
-Europium's atomic number is 63, and its average mass is 151.964u. Europium has 63 protons and a stable isotope of Europium is "Europium-151," containing 88 electrons. The most common ion of Europium is Eu3+ with 60 electrons. Based on the most common ion of Europium, Europium may be more likely to lose or give up electrons because it has less than four valence electrons within its valence shell. This shows that Europium does not maintain a strong attractive force between the nucleus and its valence electrons.
+Europium's atomic number is 63, and its average mass is 151.964u. Europium has 63 protons and a stable isotope of Europium is "Europium-151," containing 88 electrons. The most common ion of Europium is Eu3+ with 60 electrons. Based on the most common ion of Europium, Europium may be more likely to lose or give up electrons because it has less than four valence electrons within its valence shell. This shows that Europium does not maintain a strong attractive force between the nucleus and its valence electrons. Europium is a metal.
 
 
 
@@ -28,3 +28,4 @@ Europium's atomic number is 63, and its average mass is 151.964u. Europium has 6
 * Britannica: [https://www.britannica.com/science/europium](https://www.britannica.com/science/europium)
 * Pubchem, National Center for Biotechnology Information, National Library of Medicine: [https://pubchem.ncbi.nlm.nih.gov/element/Europium](https://pubchem.ncbi.nlm.nih.gov/element/Europium)
 * BuyIsotope: [https://www.buyisotope.com/europium-151-isotope.php](https://www.buyisotope.com/europium-151-isotope.php)
+* Nanografi-Blografi on Medium: [https://medium.com/@nanografi/europium-metal-and-its-applications-15e269a23e6e](https://medium.com/@nanografi/europium-metal-and-its-applications-15e269a23e6e)
