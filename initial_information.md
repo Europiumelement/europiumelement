@@ -21,9 +21,10 @@ Europium's atomic number is 63, and its average mass is 151.964u. Europium has 6
 
 
 ##### Sources:
-C.I.A.A.W. (Which Pubchem sourced from): https://ciaaw.org/europium.htm
-The Royal Society of Chemistry:https://www.rsc.org/periodic-table/element/63/europium
-University of North Texas: https://itservices.cas.unt.edu/~jimm/REDISCOVERY%206-10-2021/Photos/France/Paris/Paris%203-9%20folder/pages/paris3-020-113-001L_jpg.htm
-Britannica: https://www.britannica.com/science/europium
-Pubchem, National Center for Biotechnology Information, National Library of Medicine: https://pubchem.ncbi.nlm.nih.gov/element/Europium
-BuyIsotope: https://www.buyisotope.com/europium-151-isotope.php
+C.I.A.A.W. (Which Pubchem sourced from): [https://ciaaw.org/europium.htm](https://ciaaw.org/europium.htm)
+The Royal Society of Chemistry:[https://www.rsc.org/periodic-table/element/63/europium](https://www.rsc.org/periodic-table/element/63/europium)
+University of North Texas: [https://itservices.cas.unt.edu/~jimm/REDISCOVERY%206-10-2021/Photos/France/Paris/Paris%203-9%20folder/pages/paris3-020-113-001L_jpg.htm
+Britannica: https://www.britannica.com/science/europium](https://itservices.cas.unt.edu/~jimm/REDISCOVERY%206-10-2021/Photos/France/Paris/Paris%203-9%20folder/pages/paris3-020-113-001L_jpg.htm)
+Britannica: [https://www.britannica.com/science/europium](https://www.britannica.com/science/europium)
+Pubchem, National Center for Biotechnology Information, National Library of Medicine: [https://pubchem.ncbi.nlm.nih.gov/element/Europium](https://pubchem.ncbi.nlm.nih.gov/element/Europium)
+BuyIsotope: [https://www.buyisotope.com/europium-151-isotope.php](https://www.buyisotope.com/europium-151-isotope.php)
