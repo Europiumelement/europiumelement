@@ -8,3 +8,5 @@ When I began research for Europium, I was entirely unfamiliar with the element. 
 **Initial information about Europium may be found [here](./initial_information.md).** 
 
 **Europium in Bohr Models may be found [here](./europium_in_bohr_models.md).**
+
+**Reactivity, emission spectra, and other information may also be found [here](./additional information.md]
