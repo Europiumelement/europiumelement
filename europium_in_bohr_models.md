@@ -14,3 +14,5 @@ Europium is located in the relative middle of the periodic table because some el
 * Europium: [https://europium.weebly.com/bohr-model.html](https://europium.weebly.com/bohr-model.html)
 * St. Petersburg College: [http://my.spc.edu.ph:70/diwa/science_03/unit%207%20chap%2010a/eu.htm](http://my.spc.edu.ph:70/diwa/science_03/unit%207%20chap%2010a/eu.htm)
 * American Elements: [https://www.americanelements.com/eu.html](https://www.americanelements.com/eu.html)
+* Scientific Explorer on Blogpost: [http://sciexplorer.blogspot.com/2014/02/](http://sciexplorer.blogspot.com/2014/02/)
+* Scientific Explorer on Blogpost Bohr Model Periodic Table Image: [http://3.bp.blogspot.com/-zmoqDsUpRls/Uv-h8cwd7VI/AAAAAAAAC3Y/tY7rJ91sTrY/s1600/800px-Periodic_Table_of_Elements_showing_Electron_Shells.svg.png](http://3.bp.blogspot.com/-zmoqDsUpRls/Uv-h8cwd7VI/AAAAAAAAC3Y/tY7rJ91sTrY/s1600/800px-Periodic_Table_of_Elements_showing_Electron_Shells.svg.png)
