@@ -1,0 +1,18 @@
+# Bibliography
+1. Britannica: 
+2. Pubchem, National Center for Biotechnology Information, National Library of Medicine: [https://pubchem.ncbi.nlm.nih.gov/element/Europium](https://pubchem.ncbi.nlm.nih.gov/element/Europium)
+3. JLab: [https://education.jlab.org/itselemental/ele063.html](https://education.jlab.org/itselemental/ele063.html)
+4. C.I.A.A.W.: [https://ciaaw.org/europium.htm](https://ciaaw.org/europium.htm)
+5. The Royal Society of Chemistry: [https://www.rsc.org/periodic-table/element/63/europium](https://www.rsc.org/periodic-table/element/63/europium)
+6. Nanografi-Blografi on Medium: [https://medium.com/@nanografi/europium-metal-and-its-applications-15e269a23e6e](https://medium.com/@nanografi/europium-metal-and-its-applications-15e269a23e6e)
+7. umop.net: [http://umop.net/spectra/spectrum.php?elem=Eu](http://umop.net/spectra/spectrum.php?elem=Eu)
+8. Webelements.com: [https://www.webelements.com/europium/electronegativity.html](https://www.webelements.com/europium/electronegativity.html)
+9. Material Properties: [https://material-properties.org/europium-protons-neutrons-electrons-electron-configuration/](https://material-properties.org/europium-protons-neutrons-electrons-electron-configuration/)
+10. American Elements: [https://www.americanelements.com/eu.html](https://www.americanelements.com/eu.html)
+11. Europium on Weebly: [https://europium.weebly.com/bohr-model.html](https://europium.weebly.com/bohr-model.html)
+12. Georgia State University: [http://hyperphysics.phy-astr.gsu.edu/hbase/pertab/Eu.html](http://hyperphysics.phy-astr.gsu.edu/hbase/pertab/Eu.html)
+13. St. Petersburg College: [http://my.spc.edu.ph:70/diwa/science_03/unit%207%20chap%2010a/eu.htm](http://my.spc.edu.ph:70/diwa/science_03/unit%207%20chap%2010a/eu.htm)
+14. Scientific Explorer on Blogpost: [http://sciexplorer.blogspot.com/2014/02/](http://sciexplorer.blogspot.com/2014/02/)
+      * Scientific Explorer on Blogpost Bohr Model Periodic Table Image: [http://3.bp.blogspot.com/-zmoqDsUpRls/Uv-h8cwd7VI/AAAAAAAAC3Y/tY7rJ91sTrY/s1600/800px-Periodic_Table_of_Elements_showing_Electron_Shells.svg.png](http://3.bp.blogspot.com/-zmoqDsUpRls/Uv-h8cwd7VI/AAAAAAAAC3Y/tY7rJ91sTrY/s1600/800px-Periodic_Table_of_Elements_showing_Electron_Shells.svg.png)
+16. University of North Texas: [https://itservices.cas.unt.edu/~jimm/REDISCOVERY%206-10-2021/Photos/France/Paris/Paris%203-9%20folder/pages/paris3-020-113-001L_jpg.htm](https://itservices.cas.unt.edu/~jimm/REDISCOVERY%206-10-2021/Photos/France/Paris/Paris%203-9%20folder/pages/paris3-020-113-001L_jpg.htm)
+17. BuyIsotope: [https://www.buyisotope.com/europium-151-isotope.php](https://www.buyisotope.com/europium-151-isotope.php)
