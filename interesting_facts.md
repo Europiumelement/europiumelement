@@ -1,3 +1,5 @@
+[Back to the home page](./index.md)
+
 ### Interesting Facts
 1. Europium is named after the continent of Europe.
 2. The Royal Society of Chemistry states that, "Europium is used in the printing of euro banknotes. It glows red under UV lgiht, and forgeries can be detected by the lack of this red glow."
