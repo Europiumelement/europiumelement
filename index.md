@@ -14,3 +14,7 @@ When I began research for Europium, I was entirely unfamiliar with the element. 
 * **Information in relation to Europium's emission spectra may be found [here](./emission_spectra.md).**
 
 * **Some interesting facts about Europium may be found [here](./interesting_facts.md).**
+
+##### Bibliography
+
+The bibliography may be found [here](./bibliography.md).
