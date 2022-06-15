@@ -4,7 +4,8 @@ Webelements.com states that Europium has an electronegativity value of 1.01 in A
 
 Europium is part of the Europium oxide compound, with a formula of Eu2O3. Europium oxide is used "as a red phosphor in television sets," according to Pubchem and JLab.
 
-
+### Reactivity
+Europium is "the most reactive of the rare-earth metals," as stated by the Los Alamos National Laboratory, and it may be quite reactive because
 
 
 
