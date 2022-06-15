@@ -1,5 +1,7 @@
+[Back to the home page](./index.md)
+
 # Bibliography
-1. Britannica: 
+1. Britannica: [https://www.britannica.com/science/europium](https://www.britannica.com/science/europium)
 2. Pubchem, National Center for Biotechnology Information, National Library of Medicine: [https://pubchem.ncbi.nlm.nih.gov/element/Europium](https://pubchem.ncbi.nlm.nih.gov/element/Europium)
 3. JLab: [https://education.jlab.org/itselemental/ele063.html](https://education.jlab.org/itselemental/ele063.html)
 4. C.I.A.A.W.: [https://ciaaw.org/europium.htm](https://ciaaw.org/europium.htm)
